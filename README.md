@@ -75,7 +75,7 @@ Before we begin coding, complete the initial setup:
 2. **Open and Run**
    - Open the project in VSCode.
    - Run `pipenv install` to install dependencies.
-   - Run `pipenv shell` to open a Python shell instance.
+   - Run `pipenv shell` to open a Python shell instance.cd
 
 ---
 
@@ -153,3 +153,9 @@ Once all tests are passing and code is pushed to the `main` branch:
 - Application passes all test suites
 - `/` route is created and returns correctly
 - `/<model>` route is created and returns correctly
+## Lab Completion
+✅ **Car Routes Lab Completed!**
+
+### Routes Implemented:
+- `/` - Returns "Welcome to Flatiron Cars"
+- `/<model>` - Returns fleet status for: Beedle, Crossroads, M2, Panique
